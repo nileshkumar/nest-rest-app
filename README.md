@@ -13,6 +13,12 @@
  docker-compose up
 ```
 
+`To run the application in the browser:`
+
+```
+ http://localhost:3000/api/
+```
+
 `Basic Docker Commands:`
 
 List your docker images: 
